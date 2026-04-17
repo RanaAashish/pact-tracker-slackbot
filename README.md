@@ -1,4 +1,4 @@
-# Pact-Tracker
+# pact-tracker-slackbot
 
 A Python-based Slack bot that helps track and manage your pacts and commitments.
 
